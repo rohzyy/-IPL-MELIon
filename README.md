@@ -1,6 +1,5 @@
 # IPL MELIon
-Data Analysis performed on IPL Dataset with Data Profiling, Data Pre-Processing, Data Manipulation, and Data Visualization.
-
+An end-to-end IPL data analytics project featuring data profiling, preprocessing, exploratory analysis, and insightful visualizations.
 There are about more then 30 Analysis performed on the Dataset with Visualizations.
 
 ![Image of Yaktocat](ipl.jpg)
